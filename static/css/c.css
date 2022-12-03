@@ -1,0 +1,14 @@
+h1
+{
+   color: cyan;
+   background-color: blue;
+   font-family: serif;
+    font-display: 0;
+    display: flex;
+}
+img
+{
+ padding: 25px;
+ border: 50px yellow;
+ margin: 2px;
+ }
